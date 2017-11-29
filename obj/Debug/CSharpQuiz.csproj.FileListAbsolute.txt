@@ -1,0 +1,7 @@
+C:\Users\Steven\Documents\repo\CSharpQuiz\bin\Debug\CSharpQuiz.exe.config
+C:\Users\Steven\Documents\repo\CSharpQuiz\bin\Debug\CSharpQuiz.exe
+C:\Users\Steven\Documents\repo\CSharpQuiz\bin\Debug\CSharpQuiz.pdb
+C:\Users\Steven\Documents\repo\CSharpQuiz\obj\Debug\CSharpQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\repo\CSharpQuiz\obj\Debug\CSharpQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\repo\CSharpQuiz\obj\Debug\CSharpQuiz.exe
+C:\Users\Steven\Documents\repo\CSharpQuiz\obj\Debug\CSharpQuiz.pdb
